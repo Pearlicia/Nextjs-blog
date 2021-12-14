@@ -21,9 +21,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello! I am Felicia Ebikon a cloud native 
-          engineer an AWS cloud devOps engineer.
-          You can contact me on <a href="https://twitter.com/pearlicia">Twitter</a> 
+        <p>Hello! I am Felicia Ebikon a fullstack web developer and also an AWS cloud devOps engineer.
+          You can contact me on <a href="https://twitter.com/pearlicia25">Twitter</a> 
           </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
